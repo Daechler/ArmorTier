@@ -1,0 +1,6 @@
+name: TierPvP
+version: '${project.version}'
+main: net.daechler.tierpvp.TierPvP
+api-version: '1.20'
+authors: [Daechler]
+description: Fair PvP using a tier system.
