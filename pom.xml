@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.daechler</groupId>
-    <artifactId>TierPvP</artifactId>
+    <artifactId>ArmorTier</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>TierPvP</name>
+    <name>ArmorTier</name>
 
-    <description>Fair PvP using a tier system.</description>
+    <description>Let only players of the same fighting class fight against each other. </description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

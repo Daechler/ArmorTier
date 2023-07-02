@@ -1,6 +1,6 @@
-name: TierPvP
+name: ArmorTier
 version: '${project.version}'
-main: net.daechler.tierpvp.TierPvP
+main: net.daechler.armortier.ArmorTier
 api-version: '1.20'
 authors: [Daechler]
-description: Fair PvP using a tier system.
+description: Let only players of the same fighting class fight against each other.
